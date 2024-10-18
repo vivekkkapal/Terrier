@@ -1,2 +1,0 @@
-# Terrier
-The dog API
